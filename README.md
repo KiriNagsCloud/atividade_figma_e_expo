@@ -1,7 +1,7 @@
-# Exemplo Prototipo Figma:
+# Rascunho de exemplo Prototipo Figma:
+Link/ Image: https://www.figma.com/design/VGoxWEtsRVq4zq5coyvQ0Z/Untitled?node-id=0-1&t=sVacFoVhamW8maHF-1
 
-
-Link/ Image:
+![image](https://github.com/user-attachments/assets/86d7735d-777e-44cb-9e2e-8031edb59f61)
 
 
 # Welcome to your Expo app 👋
